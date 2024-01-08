@@ -7,8 +7,8 @@ from firebase_admin import db, credentials
 import json
 from uuid import uuid4
 
-openai_api_key = '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'
-pinecone_api_key = '0bdb0e43-88e0-4626-b1a3-45b5f9f6ae50'
+openai_api_key = 'api_key'
+pinecone_api_key = 'pinecone_key'
 chatbot_index_name = 'test'
 
 client = OpenAI(api_key=openai_api_key)
