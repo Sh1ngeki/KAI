@@ -1,0 +1,9 @@
+PREVIOUS CONVERSATION:
+
+<<Answer>>
+USER: <<Question>>
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+Kotiko:

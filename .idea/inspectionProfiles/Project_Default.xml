@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.allstate" />
+          <option value="main.checkstate" />
+          <option value="main.checkstate1" />
+          <option value="main.checkstate4" />
+          <option value="main.checkstate2" />
+          <option value="main.checkstate3" />
+          <option value="dc.allstate" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
